@@ -4,21 +4,21 @@
         <description><![CDATA[Hacking & Coffee]]></description>
         <link>https://thegrid.ai/hackingandcoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 00:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 01:13:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hackingandcoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wine & Vineyards]]></title>
+            <description><![CDATA[<article><h1>Wine & Vineyards</h1><p>Went vineyard hopping for a friends birthday throughout the Shenandoah. Great wine, great foods, great time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fc26833522e5133d1d0278e85051037210b42cc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hackingandcoffee/wine-and-vineyards/index.html</link>
+            <guid isPermaLink="false">bf056d5d-601c-49b3-a1f2-b0f057baad78</guid>
+            <pubDate>Sun, 24 Jan 2016 01:13:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adventures Across Hawaii]]></title>
             <description><![CDATA[<article><h1>Adventures Across Hawaii</h1><p>Like many, I thoroughly enjoy traveling across the planet. It is during these travels where we find the coolest folks around the world with many of the same passions and ambitions as our own.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66a303ead4fd26f72f045eaec62838b9d385c932.jpg"></article>]]></description>
             <link>https://thegrid.ai/hackingandcoffee/1e1c5c8f-0b28-47ae-82f5-04fb894bfa9e/index.html</link>
             <guid isPermaLink="false">1e1c5c8f-0b28-47ae-82f5-04fb894bfa9e</guid>
             <pubDate>Sun, 24 Jan 2016 00:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wine & Vineyards]]></title>
-            <description><![CDATA[<article><h1>Wine & Vineyards</h1><p>Went vineyard hopping for a friends birthday throughout the Shenandoah. Great wine, great foods, great time. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fc26833522e5133d1d0278e85051037210b42cc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/hackingandcoffee/wine-and-vineyards/index.html</link>
-            <guid isPermaLink="false">bf056d5d-601c-49b3-a1f2-b0f057baad78</guid>
-            <pubDate>Sun, 24 Jan 2016 00:38:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
